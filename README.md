@@ -3,6 +3,9 @@
 A knowledge infused Context driven (KI-CD) Disease Diagnosis VA
 
 
+The repository contains the experimental setup, code and data for the paper A knowledge infused context driven dialogue agent for disease diagnosis using hierarchical reinforcement learning, Link : https://www.sciencedirect.com/science/article/pii/S0950705122000971 
+
+The pre-print of the paper is available at 
 
 A. main file  : KI-CD/src/dialogue_system/run/run.py
 
@@ -31,4 +34,16 @@ C.For Testing
 
 	run_for_test.py
 
-Please train before testing, there is not the saved model weight (higher, lower policies networks and disease classifier) as its higher size did not allow it to be uploaded.
+Please train before testing, there is not the saved model weight (higher, lower policies networks and disease classifier). 
+
+## If you use the code, we appreciate it if you cite our paper
+~~~~
+@article{tiwari2022knowledge,
+  title={A knowledge infused context driven dialogue agent for disease diagnosis using hierarchical reinforcement learning},
+  author={Tiwari, Abhisek and Saha, Sriparna and Bhattacharyya, Pushpak},
+  journal={Knowledge-Based Systems},
+  volume={242},
+  pages={108292},
+  year={2022},
+  publisher={Elsevier}
+}
