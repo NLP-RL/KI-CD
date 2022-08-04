@@ -31,4 +31,18 @@ C.For Testing
 
 	run_for_test.py
 
-Please train before testing, there is not the saved model weight (higher, lower policies networks and disease classifier) as its higher size did not allow it to be uploaded.
+Please train before testing.
+
+
+## If you use the code, we appreciate it if you cite our paper
+~~~~
+@article{roy2022gdart,
+  title={gDART: Improving rumor verification in social media with Discrete Attention Representations},
+  author={Roy, Saswata and Bhanu, Manish and Saxena, Shruti and Dandapat, Sourav and Chandra, Joydeep},
+  journal={Information Processing \& Management},
+  volume={59},
+  number={3},
+  pages={102927},
+  year={2022},
+  publisher={Elsevier}
+}
