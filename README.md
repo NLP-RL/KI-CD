@@ -31,7 +31,7 @@ For DDQN based dialogue agents :
 	run_for_test.py
 
 
-## If you use the code, we appreciate it if you cite our paper
+## Citation Information
 ~~~~
 @article{tiwari2022knowledge,
   title={A knowledge infused context driven dialogue agent for disease diagnosis using hierarchical reinforcement learning},
